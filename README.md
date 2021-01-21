@@ -1,2 +1,2 @@
 # Algoritmica (ALG)
-Repositorio para la asignatura Algorítmica del curso 1920 (UGR)
+Repositorio para la asignatura Algorítmica en el curso 19/20 (UGR)
